@@ -1,5 +1,3 @@
-Below are links to supplementary figures referenced in Southall et al. 2021.
-
 [Parent Directory for Supplementary Figures](https://duke.box.com/v/atlanticbrs-2020-sup-figs)
 
 - [Satellite tag whole tracks](https://duke.box.com/v/report2020-whole-sattag-tracks)
