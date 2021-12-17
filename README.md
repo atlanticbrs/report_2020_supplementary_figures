@@ -1,34 +1,6 @@
-<!doctype html>
 <html>
 <head>
   <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-  <style>
-    * {
-      padding: 2px 0 0 25px;
-    }
-    
-    body {
-      font-family: sans-serif;
-    }
-    
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    
-    a:hover {
-      text-decoration: underline;
-    }
-    
-    details > p {
-      padding: 3px 6px 0 80px;
-      margin: 0;
-    }
-    
-    div.instructions {
-      max-width: 75%;
-    }
-  </style>
 </head>
 <body>
 
